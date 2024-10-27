@@ -44,7 +44,7 @@ This process involves the following:
   - Microsoft Excel [ Download Here](https://www.microsoft.com)
     1. For Data cleaning
     2. For Data Analysis
-    3.  For Data Visualization
+    3. For Data Visualization
   - SQL - Structured Query Language for Quering of Data
   - Github for Portfolio Building
   - POWERBI for Data Visualization [ Download Here](https://www.miccrosoft.com)
